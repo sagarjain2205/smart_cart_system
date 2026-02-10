@@ -102,4 +102,4 @@ Cluster quality was evaluated using:
 ## How to Run
 
 ```bash
-git clone https://github.com/your-username/smartcart-clustering-system.git
+git clone https://github.com/sagarjain2205/smartcart-clustering-system.git
